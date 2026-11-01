@@ -1,4 +1,3 @@
-```java
 package com.apiflow.studentapi;
 
 import org.springframework.web.bind.annotation.GetMapping;
@@ -28,4 +27,3 @@ public class StudentController {
         );
     }
 }
-```
