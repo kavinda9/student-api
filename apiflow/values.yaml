@@ -3,7 +3,7 @@ replicaCount: 3
 image:
   repository: ghcr.io/kavinda9/apiflow-student-api
   pullPolicy: IfNotPresent
-  tag: "latest"
+  tag: "sha-4afe9f9"
 
 service:
   type: ClusterIP
