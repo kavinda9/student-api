@@ -95,7 +95,7 @@
 			<releases>
 				<enabled>false</enabled>
 			</releases>
-		</repository>
+		</pluginRepository>
 	</pluginRepositories>
 
 </project>
