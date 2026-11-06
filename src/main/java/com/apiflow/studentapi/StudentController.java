@@ -23,6 +23,11 @@ public class StudentController {
                 "id", 2,
                 "name", "Student Two",
                 "course", "Computer Science"
+            ),
+            Map.of(
+                "id", 3,
+                "name", "Student Three",
+                "course", "Information Technology"
             )
         );
     }
